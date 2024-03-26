@@ -7,7 +7,7 @@ const CONFIG = {
   HEO_NOTICE_BAR: [
     { title: '执天之道', url: 'https://0zen.im' },
     { title: '观天之行', url: 'https://0zen.im' },
-    { title: '道始于错', url: 'https://0zen.im' }
+    { title: '道始乎错', url: 'https://0zen.im' }
   ],
 
   // 英雄区左右侧组件颠倒位置
