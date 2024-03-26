@@ -109,7 +109,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '厚德载物',
   HEO_SOCIAL_CARD_TITLE_2: '天道无亲 常与善人',
   HEO_SOCIAL_CARD_TITLE_3: '慈 俭 不敢为天下先',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_URL: 'https://0zen.im',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
