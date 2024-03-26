@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '执天之行', url: 'https://0zen.im' },
-    { title: '观天之道', url: 'https://0zen.im' },
+    { title: '执天之道', url: 'https://0zen.im' },
+    { title: '观天之行', url: 'https://0zen.im' },
     { title: '尽矣', url: 'https://0zen.im' }
   ],
 
