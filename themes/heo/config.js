@@ -19,8 +19,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '道通',
   HEO_HERO_TITLE_2: '万法皆通',
   HEO_HERO_TITLE_3: '〇ZEN.IM',
-  HEO_HERO_TITLE_4: '宇宙在乎手',
-  HEO_HERO_TITLE_5: '万化生乎身',
+  HEO_HERO_TITLE_4: '宇宙在乎身',
+  HEO_HERO_TITLE_5: '万化生乎手',
   HEO_HERO_TITLE_LINK: 'https://0zen.im',
 
   // 英雄区显示三个置顶分类
