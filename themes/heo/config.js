@@ -1,12 +1,13 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-03-26', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '执天之道', url: 'https://0zen.im' },
-    { title: '观天之行', url: 'https://0zen.im' }
+    { title: '观天之行', url: 'https://0zen.im' },
+    { title: '道始于错', url: 'https://0zen.im' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -23,8 +24,8 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://0zen.im',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '大道本源', url: '/tag/热门文章' },
+  HEO_HERO_CATEGORY_1: { title: '人机共体', url: '/tag/人机共体' },
+  HEO_HERO_CATEGORY_2: { title: '大道本源', url: '/tag/大道本源' },
   HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
@@ -42,7 +43,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://github.com/0zen-org', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
