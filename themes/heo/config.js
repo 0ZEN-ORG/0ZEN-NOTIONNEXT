@@ -18,7 +18,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '道通',
   HEO_HERO_TITLE_2: '万法皆通',
-  HEO_HERO_TITLE_3: '〇ZEN.IM',
+  HEO_HERO_TITLE_3: '〇ZEN.ORG',
   HEO_HERO_TITLE_4: '宇宙在乎身',
   HEO_HERO_TITLE_5: '万化生乎手',
   HEO_HERO_TITLE_LINK: 'https://0zen.org',
